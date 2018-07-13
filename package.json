@@ -11,5 +11,8 @@
   "devDependencies": {
     "live-server": "^1.2.0",
     "node-sass": "^4.9.2"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
   }
 }
